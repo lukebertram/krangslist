@@ -1,0 +1,17 @@
+{
+  "name": "krangslist",
+  "description": "a Craigslist clone with routes built using Angular 2 CLI",
+  "main": "",
+  "authors": [
+    "\"Sea\" Knight Johnson & Luke \"Pounder\" Bertram"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
